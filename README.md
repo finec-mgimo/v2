@@ -3,7 +3,7 @@
 
 ## Сайты
 
-- https://finec.mgimo.ru/
+- https://finec.mgimo.ru/ и https://github.com/finec-mgimo/finec-mgimo.github.io
 - https://mgimo.ru/study/faculty/ffe/
 - https://odin.mgimo.ru/fakultet-finansovoj-ekonomiki
 - новости факультета финансовой эконмоики на сайте https://odin.mgimo.ru/all-news
