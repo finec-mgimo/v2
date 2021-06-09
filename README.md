@@ -30,6 +30,12 @@
 - выступление на митапе
 - просмотр документального фильма
 - соревнования по программированию
+- блог пост про то как развивался Causal Inference caйт, как пример
+ 
+# Идеи
+
+- как сделать голосовалки 
+- проанализировать результаты Google аналитики на текущем сайте finec.mgimo.ru
 
 ## TODO
 
@@ -42,6 +48,4 @@
 
 - <https://github.com/necelentano/finec-mgimo-v2/issues>
 - <https://necelentano.github.io/finec-mgimo-v2/>
-
-
-
+- 
