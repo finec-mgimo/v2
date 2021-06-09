@@ -48,4 +48,4 @@
 
 - <https://github.com/necelentano/finec-mgimo-v2/issues>
 - <https://necelentano.github.io/finec-mgimo-v2/>
-- 
+
